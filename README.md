@@ -24,6 +24,9 @@ experimente mit Zeitreisen
 BRANCHES!!!
 ![image](https://github.com/MarynaKor/RepoForSWT/assets/20230062/b30d1f75-8688-4659-a752-4aaab357d23e)
 ![image](https://github.com/MarynaKor/RepoForSWT/assets/20230062/ff9e493a-971e-454e-9bd4-79dcd5b01c22)
+MERGE
+![image](https://github.com/MarynaKor/RepoForSWT/assets/20230062/60cfe8dc-e318-40e5-bf93-8389864e662b)
+
 
 
 
