@@ -14,3 +14,4 @@ Nun verandere nochmal das ReadMe um den command git diff zu demonstrieren bevor 
 
 ![image](https://github.com/MarynaKor/RepoForSWT/assets/20230062/2f04f6f7-44c3-498c-a364-5d6bd5b917b3)
 
+![image](https://github.com/MarynaKor/RepoForSWT/assets/20230062/a1cb37df-0226-429c-8faf-d817b62edd0d)
