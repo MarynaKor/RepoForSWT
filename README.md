@@ -10,4 +10,5 @@ Ich habe eine Repo erstellt und ein kleines Taschnerechnner projekt ueber lokale
 
 Nun veraendere ich das README ueber Git damit ich nochmal einen Pull Request starten kann und dann nochmal Sachen veraendern um auch diff command auszufuehren.
 
+Nun verandere nochmal das ReadMe um den command git diff zu demonstrieren bevor ich die Veraenderung hochlade.
 
