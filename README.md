@@ -12,3 +12,5 @@ Nun veraendere ich das README ueber Git damit ich nochmal einen Pull Request sta
 
 Nun verandere nochmal das ReadMe um den command git diff zu demonstrieren bevor ich die Veraenderung hochlade.
 
+![image](https://github.com/MarynaKor/RepoForSWT/assets/20230062/2f04f6f7-44c3-498c-a364-5d6bd5b917b3)
+
