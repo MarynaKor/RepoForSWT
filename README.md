@@ -8,3 +8,6 @@ Ich habe eine Repo erstellt und ein kleines Taschnerechnner projekt ueber lokale
 ![image](https://github.com/MarynaKor/RepoForSWT/assets/20230062/701c51cf-6f66-460d-bfb3-09c64630e843)
 
 
+Nun veraendere ich das README ueber Git damit ich nochmal einen Pull Request starten kann und dann nochmal Sachen veraendern um auch diff command auszufuehren.
+
+
