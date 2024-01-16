@@ -19,3 +19,5 @@ Nun verandere nochmal das ReadMe um den command git diff zu demonstrieren bevor 
 experimente mit Zeitreisen
 ![image](https://github.com/MarynaKor/RepoForSWT/assets/20230062/2ebd163a-5a59-4ef3-a92f-421380e4f111)
 
+![image](https://github.com/MarynaKor/RepoForSWT/assets/20230062/3e777c05-3194-49ca-a228-0cbaba54a713)
+
